@@ -9,3 +9,4 @@
 /Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/refint/Application.dll
 /Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.pdb
 /Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.sourcelink.json

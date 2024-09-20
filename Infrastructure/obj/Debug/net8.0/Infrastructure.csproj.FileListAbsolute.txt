@@ -15,3 +15,4 @@
 /Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 /Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
 /Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json

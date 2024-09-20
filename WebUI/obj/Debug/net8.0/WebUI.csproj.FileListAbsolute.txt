@@ -109,3 +109,4 @@
 /Users/franciscorojas/Desktop/GestionUsuarios/WebUI/obj/Debug/net8.0/WebUI.pdb
 /Users/franciscorojas/Desktop/GestionUsuarios/WebUI/obj/Debug/net8.0/WebUI.genruntimeconfig.cache
 /Users/franciscorojas/Desktop/GestionUsuarios/WebUI/obj/Debug/net8.0/ref/WebUI.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/WebUI/obj/Debug/net8.0/WebUI.sourcelink.json
