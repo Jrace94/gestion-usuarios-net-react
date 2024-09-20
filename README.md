@@ -47,15 +47,15 @@ El proyecto está estructurado de la siguiente manera:
 
 ### 2. Configura la cadena de conexión en el archivo ApplicationDbContext.cs
 Abre Infrastructure/Data/ApplicationDbContext.cs y edita la cadena de conexión para MySQL:
-    ```bash
+```bash
     optionsBuilder.UseMySql("Server=localhost;Database=usuariosdb;User=root;Password=yourpassword;",
                         new MySqlServerVersion(new Version(8, 0, 21)));
 
 ### 3. Aplica las migraciones para crear la base de datos y las tablas necesarias
-    ```bash
+```bash
     dotnet ef migrations add InitialCreate
     dotnet ef database update
 
 ### 4. Ejecuta el backend
-    ```bash
+```bash
     dotnet run
