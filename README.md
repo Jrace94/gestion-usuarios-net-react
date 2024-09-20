@@ -61,8 +61,9 @@ Este proyecto es una aplicación full-stack que permite gestionar una lista de u
 ### Base de Datos (MySQL)
 
 **Crea la base de datos**
+    
     ```bash
-    CREATE DATABASE IF NOT EXISTS usuarios;
+    CREATE DATABASE IF NOT EXISTS usuarios
 
 ### Endpoints de la API
 
