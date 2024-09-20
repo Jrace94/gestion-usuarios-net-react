@@ -1,0 +1,17 @@
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+/Users/franciscorojas/Desktop/GestionUsuarios/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

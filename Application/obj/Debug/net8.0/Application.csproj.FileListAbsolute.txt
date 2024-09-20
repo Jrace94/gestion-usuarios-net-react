@@ -1,0 +1,11 @@
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/bin/Debug/net8.0/Application.deps.json
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/bin/Debug/net8.0/Application.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/bin/Debug/net8.0/Application.pdb
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/Application.pdb
+/Users/franciscorojas/Desktop/GestionUsuarios/Application/obj/Debug/net8.0/ref/Application.dll
