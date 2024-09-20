@@ -62,7 +62,8 @@ Este proyecto es una aplicación full-stack que permite gestionar una lista de u
 
 **Crea la base de datos**
     
-    ```bash CREATE DATABASE IF NOT EXISTS usuarios;
+    ```bash
+    CREATE DATABASE IF NOT EXISTS usuarios;
 
 ### Endpoints de la API
 
@@ -74,18 +75,18 @@ Este proyecto es una aplicación full-stack que permite gestionar una lista de u
 | PUT    | `/api/usuarios/{id}`   | Actualiza un usuario existente.   |
 | DELETE | `/api/usuarios/{id}`   | Elimina un usuario por su ID.     |
 
-### Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
-## Backend
+### Backend
 
 - .NET Core 8.0
 - Entity Framework Core
 - MySQL
 
-## Frontend
+### Frontend
 
 - React
 - Axios
 
-### Autor
+## Autor
 Proyecto desarrollado por José Rojas - 2024.
