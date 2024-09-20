@@ -41,9 +41,9 @@ El proyecto está estructurado de la siguiente manera:
 ## Configuración del Backend (.NET Core)
 
 ### 1. Clonar el repositorio
-    ```bash
-     git clone https://github.com/Jrace94/gestion-usuarios-net-react.git
-     cd gestion-usuarios-net-react/GestionUsuarios
+   ```bash
+    git clone https://github.com/Jrace94/gestion-usuarios-net-react.git
+    cd gestion-usuarios-net-react/GestionUsuarios
 
 ### 2. Configura la cadena de conexión en el archivo ApplicationDbContext.cs
 Abre Infrastructure/Data/ApplicationDbContext.cs y edita la cadena de conexión para MySQL:
