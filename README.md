@@ -62,8 +62,7 @@ Este proyecto es una aplicación full-stack que permite gestionar una lista de u
 
 **Crea la base de datos**
     
-    ```bash
-    CREATE DATABASE IF NOT EXISTS usuarios;
+    ```bash CREATE DATABASE IF NOT EXISTS usuarios;
 
 ### Endpoints de la API
 
@@ -89,4 +88,4 @@ Este proyecto es una aplicación full-stack que permite gestionar una lista de u
 - Axios
 
 ### Autor
-Proyecto desarrollado por [José Rojas] - 2024.
+Proyecto desarrollado por José Rojas - 2024.
